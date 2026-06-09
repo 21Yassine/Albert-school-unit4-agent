@@ -1,3 +1,8 @@
+# LangGraph local persistence database
 support.db
+
+# Python environment & cache
 __pycache__/
+*.pyc
+.DS_Store
 .env
